@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: #000;
 }
 
 body {
@@ -96,7 +96,6 @@ body {
   padding: .75rem 1.25rem;
   font-weight: 700;
 }
-
 
 /*
  * Footer
